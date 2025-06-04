@@ -1,4 +1,4 @@
-# 🏋️‍♀️ GymTech
+# 🏋️‍♀️ GymTech SENA
 
 "poner descripcion del proyecto casco".
 
@@ -25,7 +25,7 @@
 | Tecnología | Descripción |
 |------------|-------------|
 | `Node.js`  | Backend del proyecto |
-| `PHP`    | Interfaz de usuario |
-| `Css`  | Base de datos |
-| `Bostrap` | Estilos rápidos y eficientes |
+| `PHP, HTML`    | Interfaz de usuario |
+| `POSTGRES`  | Base de datos |
+| `Bostrap, CSS` | Estilos rápidos y eficientes |
 
